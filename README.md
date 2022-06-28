@@ -10,6 +10,8 @@ We've had a bit of trouble with our patented Sushi Saga conveyor belt system, so
 
 **Doesn't that look delicious?!**
 
+## Setup
+
 ### Server
 
 To get you going, we've got a backend just chock full of sushi just waiting to be eaten! To get get these guys, you're going to have to do the follow:
@@ -17,12 +19,10 @@ To get you going, we've got a backend just chock full of sushi just waiting to b
 1. Navigate to `sushi-saga-client` and run `json-server --watch db.json`
 2. Navigate to `http://localhost:3000/sushis` to confirm delivery of sushi!
 
+
 ### Client
 
 Just as all good sushi needs a firm base of delicious rice, we've given you quite a bit of code to start off your frontend!
-
-1. Run `npm install` to download the dependencies
-2. Run `npm start` to start your React application on `http://localhost:3001`
 
 This will be located within the `sushi-saga-client` directory of this repo. Inside are all the components you'll need, as well as instructions as to where and how to render those components properly.
 
